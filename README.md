@@ -31,9 +31,9 @@ ict-risk-assessment/
 │   └── results/                # Scan output files go here
 │       ├── prowler/            # Prowler CSV/JSON output
 │       └── scoutsuite/         # ScoutSuite HTML report
-├── README.md                   # This file
 ├── requirements.txt            # Python dependencies
 └── .gitignore                  # Files to exclude from Git
+├── README.md                   # This file
 ```
 
 ---
