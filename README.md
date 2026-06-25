@@ -21,7 +21,7 @@ We build a **real intentionally vulnerable AWS lab**, run both tools on the same
 ## Project Structure
 
 ```
-ict-risk-project/
+ict-risk-assessment/
 │
 ├── terraform/                  # AWS infrastructure (intentional misconfigs)
 │   ├── main.tf                 # All AWS resources
@@ -251,4 +251,4 @@ Service breakdown:
 - Always run `terraform destroy` after each session
 - This lab is for educational purposes only
 - Delete IAM access keys after the project is complete
-# ICT-Risk-Assessment-Project
+
